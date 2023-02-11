@@ -1,2 +1,20 @@
-# pcra
-Pushkin Create React App(PCRA). This is the starting setup for a react project
+# PCRA
+
+## Установка
+
+```bash
+# npm install
+```
+
+## Режим запуска
+
+```bash
+# Режим разработки
+$ npm run start
+
+# Сборка для продакшена
+$ npm run build:prod
+
+# Сборка для разработки
+$ npm run build:dev
+```
